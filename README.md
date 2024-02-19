@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Este repositório contém o código do backend do meu projeto de Gerenciador de Tarefas. Onde criei uma API para lidar com a listagem, adição, deleção, procurar por ID e atualizar as tarefas. Foi desenvolvida utilizando Node.js, Express.js, MongoDB e Mongoose.
+Este repositório contém o código do backend do meu projeto de Gerenciador de Tarefas. Onde criei uma API para lidar com a listagem, adição, deleção, procurar por ID e atualizar as tarefas. Foi desenvolvida utilizando Node.js, Express.js, MongoDB, Mongoose e Postman.
 
 ## Funcionalidades
 
