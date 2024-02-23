@@ -42,7 +42,7 @@ Instale as dependências do projeto:
 
 Execute o projeto:
 
-`npm run dev`
+`npm run start:dev`
 
 ## Contribuição
 
